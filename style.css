@@ -1,0 +1,9 @@
+body{
+    background-color: purple;
+}
+
+
+#circleOutput{
+    background-color: seagreen;
+    border-radius: 50%;
+}
